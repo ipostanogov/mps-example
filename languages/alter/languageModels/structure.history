@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="tmwj" modelUID="r:d1a27570-632e-47e3-a3c7-9b78bba94fd8(select.alter.structure)" version="-1" />
+    </dependencies>
+    <rename id="tmwj.9201758633854393239" type="CHILD" from="alternative" to="alternatives" />
+  </StructureModification>
+</history>
+
