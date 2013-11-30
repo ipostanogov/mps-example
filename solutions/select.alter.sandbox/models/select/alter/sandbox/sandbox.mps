@@ -7,6 +7,7 @@
   <roots>
     <node type="tmwj.Selector" typeId="tmwj.9201758633854393234" id="9201758633854541509">
       <property name="name" nameId="tpck.1169194664001" value="MySelector" />
+      <property name="virtualPackage" nameId="tpck.1193676396447" value="select.alter.sandbox.sandbox" />
     </node>
   </roots>
   <root id="9201758633854541509">
